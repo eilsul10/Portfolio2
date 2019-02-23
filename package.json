@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/eilsul10/Portfolio2#readme",
   "dependencies": {
-    "material-components-web": "^0.44.0"
+    "@material/layout-grid": "^0.41.0",
+    "@material/tab-bar": "^0.44.0",
+    "@material/theme": "^0.43.0",
+    "material-components-web": "^0.44.0",
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
